@@ -1,0 +1,19 @@
+🔑 Admin Login Credentials:
+   Email: admin@bankmuscat.com
+   Password: Admin@123
+   Email: admin2@bankmuscat.com
+   Password: Admin@123
+
+🔑 Company Login Credentials:
+   Email: info@almadinavaluation.com
+   Password: Company@123
+   Email: contact@omanpropertyexperts.com
+   Password: Company@123
+   Email: info@gulfappraisal.com
+   Password: Company@123
+   Email: hello@premiumvaluation.com
+   Password: Company@123
+   Email: contact@autoappraisal.com
+   Password: Company@123
+   Email: info@omanrealestatevaluers.com
+   Password: Company@123
