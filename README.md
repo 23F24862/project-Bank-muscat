@@ -1,4 +1,3 @@
-echo " " >> README.md
-git add README.md
-git commit -m "Trigger contributors refresh"
-git push
+git remote remove origin
+git remote add origin https://github.com/USERNAME/NEW-REPO.git
+git push -u origin master --force
