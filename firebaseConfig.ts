@@ -7,13 +7,13 @@ import { Platform } from "react-native";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyDuARFkMTPBNhpSBKySSKV4ifU6vvR3xos",
-  authDomain: "bankmuscat-7b75c.firebaseapp.com",
-  projectId: "bankmuscat-7b75c",
-  storageBucket: "bankmuscat-7b75c.firebasestorage.app",
-  messagingSenderId: "690091034924",
-  appId: "1:690091034924:web:8208cf0b1a6dc452788489",
-  measurementId: "G-9RV7RY5DKV",
+  apiKey: "AIzaSyBLR_upM3rwGQyVVfFI1kMxGbgZrtZGZkM",
+  authDomain: "bank-muscat-4fa06.firebaseapp.com",
+  projectId: "bank-muscat-4fa06",
+  storageBucket: "bank-muscat-4fa06.firebasestorage.app",
+  messagingSenderId: "238133204042",
+  appId: "1:238133204042:web:f77625729047be8c8882b3",
+  measurementId: "G-GY8DE6GKS2"
 };
 
 // Initialize Firebase

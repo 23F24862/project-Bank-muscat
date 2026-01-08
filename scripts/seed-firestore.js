@@ -128,7 +128,7 @@ const admins = [
   {
     email: "admin@bankmuscat.com",
     password: "Admin@123",
-    fullName: "Ahmed Al-Mansoori",
+    fullName: "ٌRiham Al Baloushi",
     role: "admin",
     phone: "+968 2456 0001",
   },
